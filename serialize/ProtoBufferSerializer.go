@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/RadicalApp/libsignal-protocol-go/logger"
-	"github.com/RadicalApp/libsignal-protocol-go/protocol"
-	"github.com/RadicalApp/libsignal-protocol-go/util/bytehelper"
-	"github.com/RadicalApp/libsignal-protocol-go/util/optional"
 	proto "github.com/golang/protobuf/proto"
+	"github.com/trustasia-com/libsignal-protocol-go/logger"
+	"github.com/trustasia-com/libsignal-protocol-go/protocol"
+	"github.com/trustasia-com/libsignal-protocol-go/util/bytehelper"
+	"github.com/trustasia-com/libsignal-protocol-go/util/optional"
 )
 
 // NewProtoBufSerializer will return a serializer for all Signal objects that will

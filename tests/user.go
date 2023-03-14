@@ -1,13 +1,13 @@
 package tests
 
 import (
-	"github.com/RadicalApp/libsignal-protocol-go/groups"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/identity"
-	"github.com/RadicalApp/libsignal-protocol-go/protocol"
-	"github.com/RadicalApp/libsignal-protocol-go/serialize"
-	"github.com/RadicalApp/libsignal-protocol-go/session"
-	"github.com/RadicalApp/libsignal-protocol-go/state/record"
-	"github.com/RadicalApp/libsignal-protocol-go/util/keyhelper"
+	"github.com/trustasia-com/libsignal-protocol-go/groups"
+	"github.com/trustasia-com/libsignal-protocol-go/keys/identity"
+	"github.com/trustasia-com/libsignal-protocol-go/protocol"
+	"github.com/trustasia-com/libsignal-protocol-go/serialize"
+	"github.com/trustasia-com/libsignal-protocol-go/session"
+	"github.com/trustasia-com/libsignal-protocol-go/state/record"
+	"github.com/trustasia-com/libsignal-protocol-go/util/keyhelper"
 )
 
 // user is a structure for a signal user.

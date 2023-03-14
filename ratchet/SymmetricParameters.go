@@ -1,8 +1,8 @@
 package ratchet
 
 import (
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/identity"
+	"github.com/trustasia-com/libsignal-protocol-go/ecc"
+	"github.com/trustasia-com/libsignal-protocol-go/keys/identity"
 )
 
 // SymmetricParameters describes the session parameters for sessions where

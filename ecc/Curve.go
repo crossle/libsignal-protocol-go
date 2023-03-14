@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/RadicalApp/libsignal-protocol-go/logger"
+	"github.com/trustasia-com/libsignal-protocol-go/logger"
 	"golang.org/x/crypto/curve25519"
 )
 

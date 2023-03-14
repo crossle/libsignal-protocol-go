@@ -2,12 +2,13 @@ package tests
 
 import (
 	"fmt"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/prekey"
-	"github.com/RadicalApp/libsignal-protocol-go/logger"
-	"github.com/RadicalApp/libsignal-protocol-go/session"
-	"github.com/RadicalApp/libsignal-protocol-go/state/record"
-	"github.com/kr/pretty"
 	"testing"
+
+	"github.com/kr/pretty"
+	"github.com/trustasia-com/libsignal-protocol-go/keys/prekey"
+	"github.com/trustasia-com/libsignal-protocol-go/logger"
+	"github.com/trustasia-com/libsignal-protocol-go/session"
+	"github.com/trustasia-com/libsignal-protocol-go/state/record"
 )
 
 // TestSerializing tests serialization and deserialization of Signal objects.
