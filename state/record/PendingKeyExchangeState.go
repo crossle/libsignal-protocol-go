@@ -1,9 +1,9 @@
 package record
 
 import (
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/identity"
-	"github.com/RadicalApp/libsignal-protocol-go/util/bytehelper"
+	"github.com/crossle/libsignal-protocol-go/ecc"
+	"github.com/crossle/libsignal-protocol-go/keys/identity"
+	"github.com/crossle/libsignal-protocol-go/util/bytehelper"
 )
 
 // NewPendingKeyExchange will return a new PendingKeyExchange object.

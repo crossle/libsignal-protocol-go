@@ -2,10 +2,11 @@ package tests
 
 import (
 	"encoding/base64"
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
-	"github.com/RadicalApp/libsignal-protocol-go/kdf"
-	"github.com/RadicalApp/libsignal-protocol-go/logger"
 	"testing"
+
+	"github.com/crossle/libsignal-protocol-go/ecc"
+	"github.com/crossle/libsignal-protocol-go/kdf"
+	"github.com/crossle/libsignal-protocol-go/logger"
 )
 
 // TestSharedSecret tests the key derivation function's ability to

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
+	"github.com/crossle/libsignal-protocol-go/ecc"
 )
 
 const maxStates = 5

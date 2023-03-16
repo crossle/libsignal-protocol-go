@@ -7,12 +7,12 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/RadicalApp/libsignal-protocol-go/cipher"
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
+	"github.com/crossle/libsignal-protocol-go/cipher"
+	"github.com/crossle/libsignal-protocol-go/ecc"
 
-	"github.com/RadicalApp/libsignal-protocol-go/kdf"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/root"
-	"github.com/RadicalApp/libsignal-protocol-go/util/bytehelper"
+	"github.com/crossle/libsignal-protocol-go/kdf"
+	"github.com/crossle/libsignal-protocol-go/keys/root"
+	"github.com/crossle/libsignal-protocol-go/util/bytehelper"
 )
 
 type ProvisionMessage struct {

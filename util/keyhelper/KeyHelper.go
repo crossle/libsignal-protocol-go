@@ -6,9 +6,9 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/identity"
-	"github.com/RadicalApp/libsignal-protocol-go/state/record"
+	"github.com/crossle/libsignal-protocol-go/ecc"
+	"github.com/crossle/libsignal-protocol-go/keys/identity"
+	"github.com/crossle/libsignal-protocol-go/state/record"
 )
 
 // GenerateIdentityKeyPair generates an identity keypair used for

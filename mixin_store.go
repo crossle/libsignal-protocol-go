@@ -6,14 +6,14 @@ import (
 	"fmt"
 	"syscall/js"
 
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
-	groupRecord "github.com/RadicalApp/libsignal-protocol-go/groups/state/record"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/identity"
-	"github.com/RadicalApp/libsignal-protocol-go/logger"
-	"github.com/RadicalApp/libsignal-protocol-go/protocol"
-	"github.com/RadicalApp/libsignal-protocol-go/serialize"
-	"github.com/RadicalApp/libsignal-protocol-go/state/record"
-	"github.com/RadicalApp/libsignal-protocol-go/util/bytehelper"
+	"github.com/crossle/libsignal-protocol-go/ecc"
+	groupRecord "github.com/crossle/libsignal-protocol-go/groups/state/record"
+	"github.com/crossle/libsignal-protocol-go/keys/identity"
+	"github.com/crossle/libsignal-protocol-go/logger"
+	"github.com/crossle/libsignal-protocol-go/protocol"
+	"github.com/crossle/libsignal-protocol-go/serialize"
+	"github.com/crossle/libsignal-protocol-go/state/record"
+	"github.com/crossle/libsignal-protocol-go/util/bytehelper"
 )
 
 // IdentityKeyStore

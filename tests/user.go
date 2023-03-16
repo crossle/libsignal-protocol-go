@@ -1,13 +1,13 @@
 package tests
 
 import (
-	"github.com/RadicalApp/libsignal-protocol-go/groups"
-	"github.com/RadicalApp/libsignal-protocol-go/keys/identity"
-	"github.com/RadicalApp/libsignal-protocol-go/protocol"
-	"github.com/RadicalApp/libsignal-protocol-go/serialize"
-	"github.com/RadicalApp/libsignal-protocol-go/session"
-	"github.com/RadicalApp/libsignal-protocol-go/state/record"
-	"github.com/RadicalApp/libsignal-protocol-go/util/keyhelper"
+	"github.com/crossle/libsignal-protocol-go/groups"
+	"github.com/crossle/libsignal-protocol-go/keys/identity"
+	"github.com/crossle/libsignal-protocol-go/protocol"
+	"github.com/crossle/libsignal-protocol-go/serialize"
+	"github.com/crossle/libsignal-protocol-go/session"
+	"github.com/crossle/libsignal-protocol-go/state/record"
+	"github.com/crossle/libsignal-protocol-go/util/keyhelper"
 )
 
 // user is a structure for a signal user.

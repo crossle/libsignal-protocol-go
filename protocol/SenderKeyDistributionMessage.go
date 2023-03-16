@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
+	"github.com/crossle/libsignal-protocol-go/ecc"
 )
 
 // SenderKeyDistributionMessageSerializer is an interface for serializing and deserializing

@@ -1,7 +1,7 @@
 package fingerprint
 
 import (
-	"github.com/RadicalApp/libsignal-protocol-go/keys/identity"
+	"github.com/crossle/libsignal-protocol-go/keys/identity"
 )
 
 // FingerprintGenerator is an interface for fingerprint generators.
