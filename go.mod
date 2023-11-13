@@ -6,7 +6,7 @@ require (
 	filippo.io/edwards25519 v1.0.0
 	github.com/golang/protobuf v1.5.3
 	github.com/kr/pretty v0.3.1
-	golang.org/x/crypto v0.14.0
+	golang.org/x/crypto v0.15.0
 )
 
 require (
