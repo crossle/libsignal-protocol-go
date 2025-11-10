@@ -1,12 +1,12 @@
 module github.com/crossle/libsignal-protocol-go
 
-go 1.23.0
+go 1.24.0
 
 require (
 	filippo.io/edwards25519 v1.1.0
 	github.com/golang/protobuf v1.5.4
 	github.com/kr/pretty v0.3.1
-	golang.org/x/crypto v0.35.0
+	golang.org/x/crypto v0.43.0
 )
 
 require (
